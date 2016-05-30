@@ -1,2 +1,2 @@
-# ract-app
+# react-app
 A reactApp of Ractjs
